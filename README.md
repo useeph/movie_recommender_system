@@ -1,8 +1,7 @@
 # IMBD Movie Recommender System
 
 ## Live Demo
-https://useeph-movie-recommender-system.streamlit.app
-
+https://movierecommendersystem-yusif.streamlit.app/
 
 A content-based movie recommendation system that generates personalized suggestions based on user-selected movies using TF-IDF vectorization and cosine similarity. The system combines similarity scoring with IMDb ratings to balance relevance and quality, and is deployed as an interactive web application using Streamlit.
 
